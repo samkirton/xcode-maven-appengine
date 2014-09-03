@@ -3,7 +3,7 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
     http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.profferapp</groupId>
+    <groupId>com.memtrip</groupId>
     <artifactId>xcode-maven-appengine</artifactId>
     <version>1.0</version>
     <packaging>maven-plugin</packaging>
